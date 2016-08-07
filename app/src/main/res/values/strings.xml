@@ -1,0 +1,448 @@
+<resources>
+    <string name="app_name">ShlebsPrompt</string>
+
+    <string-array name="prompts_list">
+        <item>in the clothes you\'re currently wearing.</item>
+        <item>as a witch.</item>
+        <item>posing like a weird stockphoto.</item>
+        <item>wearing something from the Dolce and Gabbana Fall 2006 collection</item>
+        <item>enjoying a bouncyhouse.</item>
+        <item>in Victorian garb.</item>
+        <item>on a bicycle.</item>
+        <item>in a Mad Max AU.</item>
+        <item>dressed in kigurumi.</item>
+        <item>wading in the ocean.</item>
+        <item>doing a how-to video.</item>
+        <item>with their ideal pet.</item>
+        <item>in the shower.</item>
+        <item>at a tea party.</item>
+        <item>cyberpunk.</item>
+        <item>as their trollsona.</item>
+        <item>getting their booty whipped by a towel.</item>
+        <item>eating whipped cream out of the can.</item>
+        <item>eating an incredible homemade breakfast.</item>
+        <item>looking sadly an inedible homemade breakfast.</item>
+        <item>as a mermaid.</item>
+        <item>laughing at a wildly inappropriate moment.</item>
+        <item>blowing the seeds off a dandelion.</item>
+        <item>as a sock puppet.</item>
+        <item>with a big dog lying on them.</item>
+        <item>with [muffled rap music playing in the distance].</item>
+        <item>taking a bubble bath.</item>
+        <item>in a hideous sweater. Google for sweater inspiration.</item>
+        <item>eating a fancy cake.</item>
+        <item>with a new hairstyle.</item>
+        <item>getting rambunctiously drunk.</item>
+        <item>getting miserably drunk.</item>
+        <item>baking, or /trying/ to bake something.</item>
+        <item>as a barista.</item>
+        <item>as a bartender.</item>
+        <item>with their name misspelled on their Starbucks.</item>
+        <item>watching a hospital drama.</item>
+        <item>wearing just a towel.</item>
+        <item>in a parody of a classical painting.</item>
+        <item>with constellations in their freckles.</item>
+        <item>dramatically playing a pipe organ.</item>
+        <item>in patterned boxers.</item>
+        <item>trying to knit.</item>
+        <item>stargazing.</item>
+        <item>trying to smell someone without attracting attention.</item>
+        <item>with a cat stepping on their crotch or boob.</item>
+        <item>in swimwear.</item>
+        <item>on an awkward double date.</item>
+        <item>in lacy lingerie.</item>
+        <item>riding a pegasus.</item>
+        <item>being as French as possible.</item>
+        <item>napping on the couch.</item>
+        <item>fighting skeleton pirates on the backs of killer whaaaales! aaaaaah!</item>
+        <item>as a robot.</item>
+        <item>having the worst birthday EVER.</item>
+        <item>hunting for ghosts.</item>
+        <item>as a ghost, haunting someone.</item>
+        <item>appreciating a dog.</item>
+        <item>marooned on a deserted island.</item>
+        <item>exploring a basement.</item>
+        <item>doing yoga.</item>
+        <item>slow-dancing with someone.</item>
+        <item>dancing in their underwear.</item>
+        <item>doing housework while singing and/or dancing.</item>
+        <item>with butterfly wings.</item>
+        <item>in a fierce roller derby team uniform.</item>
+        <item>in detention.</item>
+        <item>wearing something way too big for them.</item>
+        <item>wearing something way too small for them.</item>
+        <item>at a rave.</item>
+        <item>having the best birthday EVER.</item>
+        <item>wearing a long coat, billowing in the wind.</item>
+        <item>at a Gatsby party.</item>
+        <item>drinking wine, looking sophisticated.</item>
+        <item>with a super cool lunchbox.</item>
+        <item>being confronted by a clown.</item>
+        <item>flirting, with whatever level of success you deem appropriate.</item>
+        <item>gazing at the sunset/rise.</item>
+        <item>then glue googly eyes on them.</item>
+        <item>getting married.</item>
+        <item>wearing a fig leaf.</item>
+        <item>putting ice in their underpants.</item>
+        <item>riding a bear.</item>
+        <item>failing at ice skating.</item>
+        <item>putting on makeup.</item>
+        <item>with an umbrella or parasol.</item>
+        <item>wearing curtains.</item>
+        <item>showing off their drawing skills.</item>
+        <item>with a chicken on their head.</item>
+        <item>in various scarves.</item>
+        <item>in a marching band AU.</item>
+        <item>DIDNYWORL. must include awful Disney merch.</item>
+        <item>with their personality reversed.</item>
+        <item>making a voodoo doll of their nemesis.</item>
+        <item>carrying a huuuuge bouquet of flowers.</item>
+        <item>covered in paint.</item>
+        <item>hauling a Christmas tree.</item>
+        <item>as a marionette puppet, with the puppeteer of your choice.</item>
+        <item>watching Finding Nemo, and crying.</item>
+        <item>carving a shitty or disturbing jack-o\'-lantern.</item>
+        <item>in a Harry Potter AU. you /know/ you\'ve already considered it.</item>
+        <item>trying to speak another language.</item>
+        <item>being presented with a cupcake.</item>
+        <item>exploring a spoopy mansion.</item>
+        <item>making a terrible pun. google some if you need ideas.</item>
+        <item>Post-apocalypse.</item>
+        <item>as royalty.</item>
+        <item>having a cute-ass picnic, with a basket and everything.</item>
+        <item>doing science! with lab coats! and goggles!</item>
+        <item>building a snowman version of someone else.</item>
+        <item>receiving a foot or back massage.</item>
+        <item>seductively consuming a popsicle.</item>
+        <item>in a prison jumpsuit. what are they in for?</item>
+        <item>being uncomfortable in a fancy restaurant.</item>
+        <item>LARPing.</item>
+        <item>as Captain Kirk. if it already is Kirk. . . make him play the bagpipes.</item>
+        <item>daydreaming about someone. drool optional.</item>
+        <item>all tiny and dressed in small household objects.</item>
+        <item>as a vampire, feeding for the first time.</item>
+        <item>+FLUFFY PRINCESS DRESS. EXTRA RUFFLES. 10X SPARKLE COMBO.</item>
+        <item>walking a dog. anyone\'s dog.</item>
+        <item>trying to care for a random baby.</item>
+        <item>shoplifting candy.</item>
+        <item>in the midst of a TV show addiction.</item>
+        <item>having a row with the microwave.</item>
+        <item>advertising condoms.</item>
+        <item>buying tampons for someone else.</item>
+        <item>standing awkwardly alone in the corner at a house party.</item>
+        <item>with a jar of glowy stuff on a stick?</item>
+        <item>holding bunnies.</item>
+        <item>devising and illustrating an incredibly complex super-villain plan.</item>
+        <item>in Eddie Redmayne\'s sexy costume from Jupiter Ascending.</item>
+        <item>with a Pokemon.</item>
+        <item>with cats. cats everywhere. SO MANY CATS.</item>
+        <item>as their spirit animal.</item>
+        <item>in an Alice in Wonderland AU!</item>
+        <item>AND THE POLICEMAN WAS _________!!!1!</item>
+        <item>in a flower crown.</item>
+        <item>on a road trip or camping.</item>
+        <item>having built a time machine and travelled to the era of their choice.</item>
+        <item>making a sandcastle at the beach.</item>
+        <item>skinny-dipping in the dead of night.</item>
+        <item>cosplaying their counterpart from another universe/fandom.</item>
+        <item>having a nightmare in which their loved one has turned into a giant donut.</item>
+        <item>digging up a corpse.</item>
+        <item>concealing a boner.</item>
+        <item>watching scary movies alone in the dark.</item>
+        <item>with their hair/eye colour inverted.</item>
+        <item>being antagonized by monkeys at the zoo.</item>
+        <item>playing an instrument, or singing, on a rooftop.</item>
+        <item>in a bathtub full of money.</item>
+        <item>in a bathtub full of mac n cheese.</item>
+        <item>as a magical girl.</item>
+        <item>in the Recon Corps uniform.</item>
+        <item>as a cyborg.</item>
+        <item>with 50s aesthetic. unless it\'s Cronus just don\'t draw Cronus.</item>
+        <item>being too cold but refusing to put on more clothing.</item>
+        <item>hiding from a thunderstorm.</item>
+        <item>outside, reveling in the rain/storm, with any amount of clothes you want.</item>
+        <item>as the god of something.</item>
+        <item>gardening indoors.</item>
+        <item>at a carnival.</item>
+        <item>watching the bit at the end of PoA where Lupin transforms and everything is awful.</item>
+        <item>#at a fire.</item>
+        <item>viciously playing a nintendo game.</item>
+        <item>in pastel pixel aesthetic.</item>
+        <item>with too many eyes.</item>
+        <item>with animal limbs.</item>
+        <item>having swapped bodies with the person they hate.</item>
+        <item>having snow dumped down their shirt.</item>
+        <item>in a kiddie pool.</item>
+        <item>at a pool party.</item>
+        <item>as a vampire; a ridiculous fancy Anne Rice style vampire.</item>
+        <item>giving/receiving an awkward hug.</item>
+        <item>giving/receiving a desperate hug.</item>
+        <item>meeting someone at the airport.</item>
+        <item>with crazy sunglasses.</item>
+        <item>getting a manicure.</item>
+        <item>in a food fight.</item>
+        <item>eating pizza in bed.</item>
+        <item>performing a striptease.</item>
+        <item>waiting for the bus in the rain (in the rain wait waiting for the bus in the rain. waiting for th)</item>
+        <item>drooling over something in a shop window.</item>
+        <item>reading/writing sad poetry.</item>
+        <item>writing a love poem.</item>
+        <item>piloting a Jaeger with their drift partner(s).</item>
+        <item>as Disney royalty.</item>
+        <item>reacting to something with +10 approval.</item>
+        <item>reacting to something with -10000 disapproval.</item>
+        <item>ordering something they DEFINITELY ABSOLUTELY NEED from Amazon.</item>
+        <item>as a kitten.</item>
+        <item>as a birb.</item>
+        <item>on a carousel.</item>
+        <item>as a teacher.</item>
+        <item>in a \'Friends\' AU. make a map of the apartments/who lives where.</item>
+        <item>drinking from a #1 _____ mug.</item>
+        <item>receiving the award for best/worst/most ______ .</item>
+        <item>making valentines.</item>
+        <item>featured in a valentine with a foolproof pickup line.</item>
+        <item>opening the window because it\'s too hot and regretting it when horrible comes in.</item>
+        <item>not opening the window, because they\'re afraid bugs will come in.</item>
+        <item>reading Eragon, with an exaggerated reaction.</item>
+        <item>reading terrible saucy romance novels.</item>
+        <item>suddenly being granted the ability to read minds.</item>
+        <item>reading and changing position every three minutes trying to get comfortable.</item>
+        <item>as an astronaut.</item>
+        <item>as a toddler.</item>
+        <item>in Autumn clothing, with a hot drink.</item>
+        <item>in their god tier jammies.</item>
+        <item>drowning.</item>
+        <item>being pushed in a shopping cart.</item>
+        <item>having a pillow fight.</item>
+        <item>stepping on a lego.</item>
+        <item>playing Pokemon Go.</item>
+        <item>in booty shorts and thigh-highs.</item>
+        <item>meeting someone they idolize.</item>
+        <item>awake at 3 AM.</item>
+        <item>in line at the DMV.</item>
+        <item>after a fistfight.</item>
+        <item>gazing out the window, wondering when their spouse will return from the war.</item>
+        <item>with a beard. If they have a beard, make it bigger.</item>
+        <item>showing someone a meme.</item>
+        <item>bedridden with a godawful cold.</item>
+        <item>as a lawyer.</item>
+        <item>playing DnD. What kind of character do they play?</item>
+        <item>making a shipping chart.</item>
+        <item>jumping out of a cake.</item>
+        <item>stretching seductively.</item>
+        <item>in a Florist AU.</item>
+        <item>caught under mistletoe with their worst enemy.</item>
+        <item>caught under mistletoe with their best friend.</item>
+        <item>as a chagrined waiter/waitress.</item>
+        <item>at a school dance.</item>
+        <item>at a sleepover.</item>
+        <item>having their First Kiss TM.</item>
+        <item>doing a magic trick.</item>
+        <item>that thing where someone puts their hand on someone\'s cheek and the person puts their hand on top and turns their head just enough to kiss the first person\'s palm oh man</item>
+        <item>ordering a really lengthy and complicated Starbucks drink.</item>
+        <item>singing "Hello".</item>
+        <item>wrestling with someone for the remote.</item>
+        <item>as the Big Spoon, quietly whispering a pun into the Little Spoon\'s ear.</item>
+        <item>mashing an unreasonable amount of wedding cake into their new spouse\'s face.</item>
+        <item>playing Mario Kart.</item>
+        <item>winning a stuffed animal.</item>
+        <item>having just woken up.</item>
+    </string-array>
+
+    <string-array name="assorted_chars">
+        <item>Cecil Palmer</item>
+        <item>Carlos the scientist</item>
+        <item>Ambrosius Goldenloin</item>
+        <item>Ballister Blackheart</item>
+        <item>Nimona</item>
+        <item>Erin Gilbert</item>
+        <item>Jillian Holtzmann</item>
+        <item>Patty Tolan</item>
+        <item>Abby Yates</item>
+        <item>Dana Scully</item>
+        <item>Fox Mulder</item>
+    </string-array>
+
+    <string-array name="tolkien_chars">
+        <item>Frodo Baggins</item>
+        <item>Bilbo Baggins</item>
+        <item>Samwise Gamgee</item>
+        <item>Pippin Took</item>
+        <item>Merry Brandybuck</item>
+        <item>Aragorn</item>
+        <item>Legolas</item>
+        <item>Gimli</item>
+        <item>Boromir</item>
+        <item>Faramir</item>
+        <item>Eowyn</item>
+        <item>Gandalf the Grey</item>
+        <item>Saruman the White</item>
+        <item>Sauron</item>
+        <item>Azog</item>
+        <item>Bolg</item>
+        <item>Thorin Oakenshield</item>
+        <item>Fili</item>
+        <item>Kili</item>
+        <item>Ori</item>
+        <item>Nori</item>
+        <item>Dori</item>
+        <item>Bifur</item>
+        <item>Bofur</item>
+        <item>Bombur</item>
+        <item>Oin</item>
+        <item>Gloin</item>
+        <item>Balin</item>
+        <item>Dwalin</item>
+        <item>Bard</item>
+        <item>Thranduil</item>
+        <item>Tauriel</item>
+        <item>Lindir</item>
+        <item>Dis</item>
+    </string-array>
+
+    <string-array name="su_chars">
+        <item>Steven Universe</item>
+        <item>Garnet</item>
+        <item>Amethyst</item>
+        <item>Pearl</item>
+        <item>Peridot</item>
+        <item>Ruby</item>
+        <item>Sapphire</item>
+        <item>Lapis Lazuli</item>
+        <item>Jasper</item>
+        <item>Connie Maheswaran</item>
+        <item>Rose Quartz</item>
+    </string-array>
+
+    <string-array name="orig_chars">
+        <item>Tesselle Hawksail</item>
+        <item>George the fiddler</item>
+        <item>Weed Elf</item>
+        <item>Pirate Captain OC</item>
+        <item>Bean</item>
+    </string-array>
+
+    <string-array name="free_chars">
+        <item>Haruka Nanase</item>
+        <item>Mako (honestly whichever one you want)</item>
+        <item>Nagisa Hazuki</item>
+        <item>Rei Ryuugazaki</item>
+        <item>Rin Matsuoka</item>
+        <item>Sousuke Yamazaki</item>
+        <item>Kou Matsuoka</item>
+    </string-array>
+
+    <string-array name="pjo_chars">
+        <item>Percy Jackson</item>
+        <item>Annabeth Chase</item>
+        <item>Grover Underwood</item>
+        <item>Tyson</item>
+        <item>Thalia Grace</item>
+        <item>Nico di Angelo</item>
+        <item>Clarisse La Rue</item>
+        <item>Will Solace</item>
+        <item>Leo Valdez</item>
+        <item>Piper McLean</item>
+        <item>Jason Grace</item>
+        <item>Hazel Levesque</item>
+        <item>Frank Zhang</item>
+        <item>Reyna Avila Ramirez-Arellano"</item>
+        <item>Calypso</item>
+    </string-array>
+
+    <string-array name="overwatch_chars">
+        <item>Lena \"Tracer\" Oxton</item>
+        <item>Amelie \"Widowmaker\" Lacroix</item>
+        <item>Genji Shimada</item>
+        <item>Jesse McCree</item>
+        <item>Fareeha \"Pharah\" Amari</item>
+        <item>Gabriel \"Reaper\" Reyes</item>
+        <item>Jack \"Soldier: 76\" Morrison</item>
+        <item>Hanzo Shimada</item>
+        <item>Jamison \"Junkrat\" Fawkes</item>
+        <item>Mei-Ling Zhou</item>
+        <item>Hana \"D.Va\" Song</item>
+        <item>Aleksandra \"Zarya\" Zaryanova</item>
+        <item>Ana Amari</item>
+        <item>Lucio Correia dos Santos</item>
+        <item>Angela \"Mercy\" Ziegler</item>
+        <item>Satya \"Symmetra\" Vaswani</item>
+        <item>Zenyatta</item>
+    </string-array>
+
+    <string-array name="homestuck_chars">
+        <item>John Egbert</item>
+        <item>Dave Strider</item>
+        <item>Rose Lalonde</item>
+        <item>Jade Harley</item>
+        <item>Jane Crocker</item>
+        <item>Dirk Strider</item>
+        <item>Roxy Lalonde</item>
+        <item>Jake English</item>
+        <item>Karkat Vantas</item>
+        <item>Aradia Megido</item>
+        <item>Tavros Nitram</item>
+        <item>Sollux Captor</item>
+        <item>Nepeta Leijon</item>
+        <item>Kanaya Maryam</item>
+        <item>Terezi Pyrope</item>
+        <item>Vriska Serket</item>
+        <item>Equius Zahhak</item>
+        <item>Gamzee Makara</item>
+        <item>Eridan Ampora</item>
+        <item>Feferi Peixes</item>
+        <item>Kankri Vantas</item>
+        <item>Damara Megido</item>
+        <item>Rufioh Nitram</item>
+        <item>Mituna Captor</item>
+        <item>Meulin Leijon</item>
+        <item>Porrim Maryam</item>
+        <item>Latula Pyrope</item>
+        <item>Aranea Serket</item>
+        <item>Horuss Zahhak</item>
+        <item>Kurloz Makara</item>
+        <item>Cronus Ampora</item>
+        <item>Meenah Peixes</item>
+    </string-array>
+
+    <string-array name="da_chars">
+        <item>Alistair Theirin</item>
+        <item>Morrigan</item>
+        <item>Leliana</item>
+        <item>Zevran Arainai</item>
+        <item>Dysaster Aeducan</item>
+        <item>Flemeth</item>
+        <item>The Warden\'s Mabari</item>
+        <item>a Hurlock</item>
+        <item>a Genlock</item>
+        <item>the Archdemon</item>
+    </string-array>
+
+    <string-array name="marvel_chars">
+        <item>Loki Laufeyson</item>
+        <item>Thor Odinson</item>
+        <item>Steve Rogers</item>
+        <item>Sam Wilson</item>
+        <item>Bucky Barnes</item>
+        <item>T\'Challa</item>
+        <item>Tony Stark</item>
+        <item>Natasha Romanov</item>
+        <item>Clint Barton</item>
+        <item>Bruce Banner</item>
+        <item>Peter Parker</item>
+        <item>Wade Wilson</item>
+        <item>Sif</item>
+    </string-array>
+
+    <string-array name="sense8_chars">
+        <item>Capheus</item>
+        <item>Sun Bak</item>
+        <item>Nomi Marks</item>
+        <item>Kala (Sense8)</item>
+        <item>Riley (Sense8)</item>
+        <item>Wolfgang (Sense8)</item>
+        <item>Lito Rodriguez</item>
+        <item>Hernando (Sense8)</item>
+        <item>Amanita</item>
+    </string-array>
+</resources>
