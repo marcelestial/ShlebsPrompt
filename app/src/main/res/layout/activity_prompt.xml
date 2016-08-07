@@ -19,7 +19,12 @@
         android:paddingBottom="8dp"
         android:layout_centerHorizontal="true"/>
 
-
+    <EditText
+        android:id="@+id/edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/description"
+        android:hint="character name"/>
 
     <TextView
         android:id="@+id/prompt_text_view"
@@ -32,8 +37,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
+        android:id="@+id/preprompt_textview"
         android:layout_above="@id/prompt_text_view"
-        android:text="Draw your character..."
         android:textSize="20sp"/>
 
     <Button

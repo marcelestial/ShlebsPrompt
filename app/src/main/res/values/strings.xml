@@ -144,7 +144,7 @@
         <item>having built a time machine and travelled to the era of their choice.</item>
         <item>making a sandcastle at the beach.</item>
         <item>skinny-dipping in the dead of night.</item>
-        <item>cosplaying their counterpart from another universe/fandom.</item>
+        <item>in cosplay.</item>
         <item>having a nightmare in which their loved one has turned into a giant donut.</item>
         <item>digging up a corpse.</item>
         <item>concealing a boner.</item>
@@ -170,7 +170,7 @@
         <item>in pastel pixel aesthetic.</item>
         <item>with too many eyes.</item>
         <item>with animal limbs.</item>
-        <item>having swapped bodies with the person they hate.</item>
+        <item>after swapping bodies with the person they hate.</item>
         <item>having snow dumped down their shirt.</item>
         <item>in a kiddie pool.</item>
         <item>at a pool party.</item>
@@ -192,8 +192,7 @@
         <item>reacting to something with +10 approval.</item>
         <item>reacting to something with -10000 disapproval.</item>
         <item>ordering something they DEFINITELY ABSOLUTELY NEED from Amazon.</item>
-        <item>as a kitten.</item>
-        <item>as a birb.</item>
+        <item>as a bird.</item>
         <item>on a carousel.</item>
         <item>as a teacher.</item>
         <item>in a \'Friends\' AU. make a map of the apartments/who lives where.</item>
@@ -202,7 +201,6 @@
         <item>making valentines.</item>
         <item>featured in a valentine with a foolproof pickup line.</item>
         <item>opening the window because it\'s too hot and regretting it when horrible comes in.</item>
-        <item>not opening the window, because they\'re afraid bugs will come in.</item>
         <item>reading Eragon, with an exaggerated reaction.</item>
         <item>reading terrible saucy romance novels.</item>
         <item>suddenly being granted the ability to read minds.</item>
@@ -236,9 +234,11 @@
         <item>as a chagrined waiter/waitress.</item>
         <item>at a school dance.</item>
         <item>at a sleepover.</item>
-        <item>having their First Kiss TM.</item>
+        <item>having their First Kiss.</item>
         <item>doing a magic trick.</item>
-        <item>that thing where someone puts their hand on someone\'s cheek and the person puts their hand on top and turns their head just enough to kiss the first person\'s palm oh man</item>
+        <item>doing that thing where someone puts their hand on someone\'s cheek and
+            the person puts their hand on top and turns their head
+            just enough to kiss the first person\'s palm oh man</item>
         <item>ordering a really lengthy and complicated Starbucks drink.</item>
         <item>singing "Hello".</item>
         <item>wrestling with someone for the remote.</item>
@@ -247,6 +247,13 @@
         <item>playing Mario Kart.</item>
         <item>winning a stuffed animal.</item>
         <item>having just woken up.</item>
+        <item>dropping their phone in the toilet.</item>
+        <item>drinking boba tea.</item>
+        <item>as a demon.</item>
+        <item>as a knight.</item>
+        <item>sending a message in the language of flowers.</item>
+        <item>in a haunted house.</item>
+        <item>getting startled by the toaster.</item>
     </string-array>
 
     <string-array name="assorted_chars">
@@ -351,22 +358,22 @@
     </string-array>
 
     <string-array name="overwatch_chars">
-        <item>Lena \"Tracer\" Oxton</item>
-        <item>Amelie \"Widowmaker\" Lacroix</item>
-        <item>Genji Shimada</item>
-        <item>Jesse McCree</item>
-        <item>Fareeha \"Pharah\" Amari</item>
-        <item>Gabriel \"Reaper\" Reyes</item>
-        <item>Jack \"Soldier: 76\" Morrison</item>
-        <item>Hanzo Shimada</item>
-        <item>Jamison \"Junkrat\" Fawkes</item>
-        <item>Mei-Ling Zhou</item>
-        <item>Hana \"D.Va\" Song</item>
-        <item>Aleksandra \"Zarya\" Zaryanova</item>
+        <item>Tracer</item>
+        <item>Widowmaker</item>
+        <item>Genji</item>
+        <item>McCree</item>
+        <item>Pharah</item>
+        <item>Reaper</item>
+        <item>Soldier: 76</item>
+        <item>Hanzo</item>
+        <item>Junkrat</item>
+        <item>Mei</item>
+        <item>D.Va</item>
+        <item>Zarya</item>
         <item>Ana Amari</item>
-        <item>Lucio Correia dos Santos</item>
-        <item>Angela \"Mercy\" Ziegler</item>
-        <item>Satya \"Symmetra\" Vaswani</item>
+        <item>Lucio</item>
+        <item>Mercy</item>
+        <item>Symmetra</item>
         <item>Zenyatta</item>
     </string-array>
 

@@ -3,6 +3,7 @@ package com.example.mal.shlebsprompt;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.EditText;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -13,11 +14,13 @@ import java.util.Random;
 
 public class PromptActivity extends Activity {
 
+    private String charName;
     private Random generator;
     private List<String> prompts;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_prompt);
 
@@ -31,8 +34,20 @@ public class PromptActivity extends Activity {
 
 
     private void displayPrompt(String prompt) {
-        TextView quantityTextView = (TextView) findViewById(
-                R.id.prompt_text_view);
+        EditText charnameset = (EditText) findViewById(R.id.edittext);
+        String setname = charnameset.getText().toString();
+
+        if(setname.length() > 0){
+            charName = setname;
+        }
+        else{
+            charName = "your character";
+        }
+
+        TextView prePromptTextView = (TextView) findViewById(R.id.preprompt_textview);
+        prePromptTextView.setText("Draw " + charName + "...");
+
+        TextView quantityTextView = (TextView) findViewById(R.id.prompt_text_view);
         quantityTextView.setText(prompt);
     }
 
