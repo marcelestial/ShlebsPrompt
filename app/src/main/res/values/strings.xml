@@ -222,7 +222,7 @@
         <item>gazing out the window, wondering when their spouse will return from the war.</item>
         <item>with a beard. If they have a beard, make it bigger.</item>
         <item>showing someone a meme.</item>
-        <item>bedridden with a godawful cold.</item>
+        <item>bedridden with an awful cold.</item>
         <item>as a lawyer.</item>
         <item>playing DnD. What kind of character do they play?</item>
         <item>making a shipping chart.</item>
@@ -254,6 +254,7 @@
         <item>sending a message in the language of flowers.</item>
         <item>in a haunted house.</item>
         <item>getting startled by the toaster.</item>
+        <item>as someone\'s guardian angel.</item>
     </string-array>
 
     <string-array name="assorted_chars">
